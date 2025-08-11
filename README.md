@@ -12,7 +12,7 @@ The goal of this project is to:
 
 ## 📂 Files
 - `train.csv` — Input dataset  
-- `eda_script.py` — Python script containing EDA steps  
+- `eda_script.ipynb` — Python script containing EDA steps  
 - `Untitled.html` — Jupyter Notebook HTML export with EDA results and charts  
 
 
